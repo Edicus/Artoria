@@ -1,1 +1,1 @@
-worker: run_linux_mac.sh
+worker: python panda.py
